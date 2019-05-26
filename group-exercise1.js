@@ -57,7 +57,7 @@ if (dayTime) {
     console.log("It is night-time");
 }
 // Using this variable within a switch statement, put the animals in the correct array element location: ["pettingZoo", "sleepingHouse","escaped"]. //If it's day put the animals in the petting zoo, if it's night put the animals in the sleeping house, if it's neither of those they 've escaped.
-const animals = "fbw-14b";
+const animals = "fbw-13b";
 const locations = ["pettingZoo ", "sleepingHouse ", "escaped "]
 switch (result) {
     case "day-time":
